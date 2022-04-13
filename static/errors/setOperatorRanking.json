@@ -1,0 +1,1 @@
+[{"code":"CLIENT_OPERATOR_ALREADY_EXISTS","message":"Operator is already in the $OPERATORTYPE list!"},{"code":"OPERATOR_INVALID_RANKING","message":"Operator ranking must be between 1 and 10!"}]

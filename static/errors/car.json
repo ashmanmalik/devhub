@@ -1,0 +1,1 @@
+[{"code":"CAR_NOT_FOUND","message":"No car was found with the provided ID"},{"code":"ERROR_FORBIDDEN_MESSAGE","message":"You are forbidden to execute this operation"},{"code":"MISSING_REQUIRED_PARAMETERS","message":"Missing required parameter(s): $PARAMETERS"}]

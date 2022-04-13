@@ -1,0 +1,1 @@
+[{"code":"ERROR_FORBIDDEN_MESSAGE","message":"You are forbidden to execute this operation"},{"code":"PAGINATION_INVALID_PAGE","message":"Page must be an INT value higher than 0"},{"code":"PAGINATION_INVALID_SIZE","message":"Size must be an INT value between 1 and 1000"}]

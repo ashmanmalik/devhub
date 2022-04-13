@@ -1,0 +1,1 @@
+[{"code":"NAVIGATION_HEADING_INVALID","message":"Heading should be a value between 0 and 360"},{"code":"NAVIGATION_LOCATION_INVALID","message":"One or more locations sent are invalid"},{"code":"NAVIGATION_LOCATIONS_MINIMUM_LENGTH","message":"You should send us at least one location"},{"code":"NAVIGATION_TELEMETRY_INVALID","message":"Field $TELEMETRYTYPE cannot be negative"}]

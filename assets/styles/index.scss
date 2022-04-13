@@ -1,0 +1,44 @@
+@import "node_modules/@chargetrip/internal-vue-components/src/assets/styles/typograhpy.scss";
+@import "./typography";
+
+/*! purgecss start ignore */
+
+.icon-link {
+  @apply hidden;
+}
+.animate {
+  transition: all 0.6s ease-out;
+
+  &:not(.animated-in) {
+    opacity: 0;
+  }
+}
+
+.page-enter-active {
+  transition: opacity 0.5s ease-out;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
+body {
+  @apply leading-7;
+
+  @screen lg {
+    @apply overflow-hidden;
+  }
+}
+
+.center {
+  @apply absolute transform -translate-x-1/2 -translate-y-1/2 left-1/2 top-1/2;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+
+/*! purgecss end ignore */

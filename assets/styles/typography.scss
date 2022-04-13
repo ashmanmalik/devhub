@@ -1,0 +1,44 @@
+h1 {
+  @apply leading-10 text-32 font-bold;
+
+@screen md {
+  @apply text-32;
+}
+}
+
+h2 {
+  @apply leading-7 text-22 font-semibold;
+}
+
+h3 {
+  @apply leading-7 text-16 font-semibold;
+}
+
+small {
+  @apply text-14;
+}
+
+.micro {
+  @apply text-12;
+}
+
+a {
+  @apply cursor-pointer outline-none;
+}
+
+p a, label a, a.link, td a {
+  @apply text-accent font-semibold;
+}
+
+
+p {
+  @apply my-0;
+}
+
+strong {
+  @apply font-semibold;
+}
+
+.text-14 {
+  @apply leading-normal;
+}

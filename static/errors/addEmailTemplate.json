@@ -1,0 +1,1 @@
+[{"code":"EMAIL_TEMPLATE_ALREADY_EXISTS","message":"The email template with name '$TEMPLATENAME' already exists"},{"code":"EMAIL_TEMPLATE_ERROR","message":"An error has occured. $CODE: $MESSAGE"}]
